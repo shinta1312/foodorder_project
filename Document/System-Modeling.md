@@ -43,4 +43,34 @@
 
 8. Class diagram for the POS-system
 
-![Class diagram](<https://i.imgur.com/XIlOMi1.jpg> "Class diagram")
+* The "Login" Class Diagram for the POS system:
+
+<p align="center">
+    <img src="Diagrams/Class_Diagram_Login.png" alt="Class_Diagram_Login">
+</p>
+
+* The "Reserve Table" Class Diagram for the POS system:
+
+<p align="center">
+    <img src="Diagrams/Class_Diagram_Reserve_Table.png" alt="Class_Diagram_Reserve_Table">
+</p>
+
+* The "Order Food" Class Diagram for the POS system:
+
+<p align="center">
+    <img src="Diagrams/Class_Diagram_Order_Food.png" alt="Class_Diagram_Order_Food">
+</p>
+
+* The "Make Payment" Diagram for the POS system:
+
+<p align="center">
+    <img src="Diagrams/Class_Diagram_Make_Payment.png" alt="Class_Diagram_Make_Payment">
+</p>
+
+* The "Create Menu" Diagram for the POS system:
+
+<p align="center">
+    <img src="Diagrams/Class_Diagram_Create_Menu.png" alt="Class_Diagram_Create_Menu">
+</p>
+
+
